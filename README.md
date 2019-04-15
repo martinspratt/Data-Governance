@@ -3,7 +3,8 @@
 INFORMATION VALUE GOVERNANCE FRAMEWORK v2019.02 by Martin Spratt
 
 First published 2012.
-2019 04 15 - Finnish version (draft)
+
+2019 04 15 - add Finnish version (draft) as a separate download.
 
 Modern Value-First Data Governance Framework, eclipsing all known frameworks, whilst supporting RISK and COMPLIANCE.
 
